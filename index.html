@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style id="sg-guard-hide">html{visibility:hidden!important}</style>
+<script src="https://sherigspace.com/sherig-app-guard.js"></script>
+<script>setTimeout(function(){if(!window.SherigAppGuard){var d=document,s=d.getElementById('sg-guard-hide');if(s)s.remove();d.title='Cannot verify access';d.documentElement.innerHTML='<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head><body style="margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f1623;color:#e8e4dc;font-family:system-ui,sans-serif;text-align:center;padding:1.5rem"><div style="max-width:420px"><div style="font-size:3rem">🔒</div><h2 style="color:#c9a84c">Cannot verify access</h2><p style="color:#9aa3b8;line-height:1.6">The security check could not be reached. Please open this app from <a style="color:#c9a84c" href="https://sherigspace.com">sherigspace.com</a>.</p></div></body>'}},5000)</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Click &amp; Read — ཆུ་བྱ་ཨ་རྒས་དང་ཉ་ཚུ།</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Jomolhari&family=Noto+Serif+Tibetan:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/lucide@1/dist/umd/lucide.min.js"></script>
+</head>
+<body>
+<div id="splash" class="splash">
+  <div class="splash-stage s1"><p class="brought">Brought to you by</p><p class="brand-name">SherigSpace</p></div>
+  <div class="splash-stage s2">
+    <h1 class="dz-title">ཆུ་བྱ་ཨ་རྒས་དང་ཉ་ཚུ།</h1>
+    <p class="splash-sub">Click &amp; Read</p>
+    <button id="startBtn" class="start-btn" type="button">Start &#9654;</button>
+  </div>
+  <button id="skipSplash" class="skip-btn" type="button">Skip</button>
+</div>
+
+<div class="story" id="story">
+  <header class="bar">
+    <span class="bar-title dz" id="barTitle"></span>
+    <div class="bar-ctl">
+      <label>Speed <select id="speedSelect"><option value="0.5">0.5x</option><option value="0.75">0.75x</option><option value="1" selected>1x</option></select></label>
+      <button id="playAllBtn" class="btn btn-primary"><i data-lucide="play"></i> Read All</button>
+      <button id="stopBtn" class="btn btn-light"><i data-lucide="square"></i> Stop</button>
+      <button id="fsBtn" class="btn btn-light" title="Full screen"><i data-lucide="maximize"></i></button>
+      <button id="teacherBtn" class="btn btn-light" title="Teacher mode"><i data-lucide="mic"></i></button>
+    </div>
+  </header>
+
+  <main id="page" class="page"></main>
+
+  <nav class="nav">
+    <button id="prevBtn" class="navbtn" aria-label="Previous page"><i data-lucide="chevron-left"></i></button>
+    <div class="dots" id="dots"></div>
+    <span class="count"><strong id="pc">0</strong> words practised</span>
+    <button id="nextBtn" class="navbtn" aria-label="Next page"><i data-lucide="chevron-right"></i></button>
+  </nav>
+  <div class="pbar"><div id="progressBar"></div></div>
+
+  <section id="teacherPanel" class="teacher hidden">
+    <h3><i data-lucide="graduation-cap"></i> Teacher Studio</h3>
+    <p class="muted">Click a word, then Record. Saved in this browser only. For all students use the MP3 files (see audio/WORD-LIST.txt).</p>
+    <p id="recWord" class="rec-word">No word selected yet.</p>
+    <div class="row">
+      <input id="recordKey" type="text" placeholder="word key, e.g. c001">
+      <button id="recordBtn" class="btn btn-primary"><i data-lucide="mic"></i> Record</button>
+      <button id="stopRecBtn" class="btn btn-light hidden"><i data-lucide="square"></i> Stop</button>
+      <button id="playRecBtn" class="btn btn-light"><i data-lucide="play"></i> Play</button>
+      <button id="delRecBtn" class="btn btn-light"><i data-lucide="trash-2"></i> Delete</button>
+    </div>
+    <div class="row">
+      <button id="exportBtn" class="btn btn-light"><i data-lucide="download"></i> Export</button>
+      <label class="btn btn-light"><i data-lucide="upload"></i> Import<input id="importInput" type="file" accept=".json" hidden></label>
+      <button id="resetProgressBtn" class="btn btn-light"><i data-lucide="rotate-ccw"></i> Reset progress</button>
+    </div>
+    <p id="recStatus" class="muted small">Ready.</p>
+  </section>
+</div>
+<audio id="filePlayer" preload="none"></audio>
+<script src="story.js"></script>
+<script src="scenes.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
