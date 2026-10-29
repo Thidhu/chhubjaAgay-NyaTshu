@@ -1,0 +1,130 @@
+c001.mp3   ཆུ་བྱ་   NEEDS RECORDING
+c002.mp3   ཨ་རྒས་ཅིག་   NEEDS RECORDING
+c003.mp3   ལྟོ་   NEEDS RECORDING
+c004.mp3   མ་འཐོབ་པར་   (already recorded - reused)
+c005.mp3   ཆུ་རྫིང་   NEEDS RECORDING
+c006.mp3   སྦོམ་ཅིག་གི་   NEEDS RECORDING
+c007.mp3   མཐའ་མར་   NEEDS RECORDING
+c008.mp3   སྡོད་   NEEDS RECORDING
+c009.mp3   སྡོདཔ་མས   NEEDS RECORDING
+c010.mp3   ཚར་གཅིག་   NEEDS RECORDING
+c011.mp3   འབདཝ་ད   (already recorded - reused)
+c012.mp3   ཆུའི་   (already recorded - reused)
+c013.mp3   ནང་ལས་   NEEDS RECORDING
+c014.mp3   ཉ་   NEEDS RECORDING
+c015.mp3   གླེན་གོ་ཅིག་   NEEDS RECORDING
+c016.mp3   ཐོན་ཏེ   NEEDS RECORDING
+c017.mp3   དབའི་   NEEDS RECORDING
+c018.mp3   ཨ་རྒས་   NEEDS RECORDING
+c019.mp3   གདོང་ཡང་   NEEDS RECORDING
+c020.mp3   སྐྱོ་སྐྱོ་ར་   NEEDS RECORDING
+c021.mp3   འདྲཝ་འབད   NEEDS RECORDING
+c022.mp3   ཁྱོད་ལུ་   NEEDS RECORDING
+c023.mp3   ག་ཅི་གི་   NEEDS RECORDING
+c024.mp3   ངན་   NEEDS RECORDING
+c025.mp3   ཕོག་ཆིཔ་   NEEDS RECORDING
+c026.mp3   སྨོ   NEEDS RECORDING
+c027.mp3   ཟེར་   (already recorded - reused)
+c028.mp3   སླབ་ནུག   (already recorded - reused)
+c029.mp3   ཆུ་བྱ་དེ་གིས་   NEEDS RECORDING
+c030.mp3   ཁྱེ་ཀྱི་   NEEDS RECORDING
+c031.mp3   རྫིང་དེ་   NEEDS RECORDING
+c032.mp3   མགྱོགས་པ་ར་   NEEDS RECORDING
+c033.mp3   སྐམ་ནི་མས   NEEDS RECORDING
+c034.mp3   དེ་འབདཝ་ལས་   NEEDS RECORDING
+c035.mp3   ཁྱེད་ག་ར་   NEEDS RECORDING
+c036.mp3   ཤི་འོང་   NEEDS RECORDING
+c037.mp3   མནོ་སྟེ   NEEDS RECORDING
+c038.mp3   ང་   (already recorded - reused)
+c039.mp3   བཟའ་རུང་   NEEDS RECORDING
+c040.mp3   བཅུད་མེད   NEEDS RECORDING
+c041.mp3   ཉལ་རུང་   NEEDS RECORDING
+c042.mp3   གཉིད་མེདཔ་   NEEDS RECORDING
+c043.mp3   འབད་འབད་   NEEDS RECORDING
+c044.mp3   སེམས་སྐྱོ་སྟེ་   NEEDS RECORDING
+c045.mp3   སྡོད་ཡོད   NEEDS RECORDING
+c046.mp3   དེ་ལས་   (already recorded - reused)
+c047.mp3   ཉ་དེ་   NEEDS RECORDING
+c048.mp3   འདྲོགས་པའི་   NEEDS RECORDING
+c049.mp3   ཤུགས་ཀྱིས་   NEEDS RECORDING
+c050.mp3   ལོག་   (already recorded - reused)
+c051.mp3   ཆུ་ནང་   NEEDS RECORDING
+c052.mp3   སོང་སྟེ   NEEDS RECORDING
+c053.mp3   ཁོ་རའི་   NEEDS RECORDING
+c054.mp3   ཆ་རོགས་ཚུ་ལུ་   NEEDS RECORDING
+c055.mp3   ལོ་རྒྱུས་   NEEDS RECORDING
+c056.mp3   སླབ་ད   (already recorded - reused)
+c057.mp3   ཆ་རོགས་ཚུ་   NEEDS RECORDING
+c058.mp3   ག་ར་   (already recorded - reused)
+c059.mp3   འཛོམས་ཏེ་   NEEDS RECORDING
+c060.mp3   ཤི་ནི་   NEEDS RECORDING
+c061.mp3   མེད་པའི་   NEEDS RECORDING
+c062.mp3   གནས་སྐབས་ཅིག་   NEEDS RECORDING
+c063.mp3   ག་དེ་སྦེ་   NEEDS RECORDING
+c064.mp3   ཨིན་རུང་   NEEDS RECORDING
+c065.mp3   ཁྱོད་ཀྱིས་ར་   NEEDS RECORDING
+c066.mp3   མཛད་གནང་   NEEDS RECORDING
+c067.mp3   གསོལཝ་བཏབ་ནུག   NEEDS RECORDING
+c068.mp3   ཨ་རྒས་ཀྱིས   NEEDS RECORDING
+c069.mp3   དེ་འབདན་   (already recorded - reused)
+c070.mp3   ཨ་ཕི་ལ་དེ་གི་   NEEDS RECORDING
+c071.mp3   རྒྱབ་ཁ་ལུ་   NEEDS RECORDING
+c072.mp3   མཚོ་སྦོམ་   NEEDS RECORDING
+c073.mp3   ཅིག་ཡོད   NEEDS RECORDING
+c074.mp3   ང་གིས་   (already recorded - reused)
+c075.mp3   ལམ་སྟོན་པ་   NEEDS RECORDING
+c076.mp3   འབད་   (already recorded - reused)
+c077.mp3   འཁྱིད་གེ   NEEDS RECORDING
+c078.mp3   ཁྱེད་   NEEDS RECORDING
+c079.mp3   ཕར་འགྱོ་བ་ཅིན་   NEEDS RECORDING
+c080.mp3   ལེགས་ཤོམ་འོང་   NEEDS RECORDING
+c081.mp3   དོ་རུང་   NEEDS RECORDING
+c082.mp3   ཉ་ཚུ་གིས་   NEEDS RECORDING
+c083.mp3   ང་བཅས་ལུ་   NEEDS RECORDING
+c084.mp3   རྐངམ་ཡང་མེད   NEEDS RECORDING
+c085.mp3   ང་བཅས་ཀྱིས་   NEEDS RECORDING
+c086.mp3   ལམ་ཡང་   NEEDS RECORDING
+c087.mp3   འགྱོ་མི་ཚུགས   NEEDS RECORDING
+c088.mp3   འགྱོ་ནིའི་   NEEDS RECORDING
+c089.mp3   ཐབས་ལམ་   NEEDS RECORDING
+c090.mp3   ཅིག་ཡང་   NEEDS RECORDING
+c091.mp3   ཨ་རྒས་ཁྱོད་ཀྱིས་ར་   NEEDS RECORDING
+c092.mp3   ཨ་རྒས་ཀྱིས་   NEEDS RECORDING
+c093.mp3   ལུནི་   NEEDS RECORDING
+c094.mp3   བཀལ་མི་ཚུགས   NEEDS RECORDING
+c095.mp3   རེ་རེ་འབད་   NEEDS RECORDING
+c096.mp3   བཙར་ཡི་ར་   NEEDS RECORDING
+c097.mp3   བཀལ་བ་ཅིན་   NEEDS RECORDING
+c098.mp3   བཏུབ་ག   NEEDS RECORDING
+c099.mp3   དྲིཝ་ད   NEEDS RECORDING
+c100.mp3   བཏུབ་ཟེར་   NEEDS RECORDING
+c101.mp3   ཁ་བཟེད་ནུག   NEEDS RECORDING
+c102.mp3   དེལས་   NEEDS RECORDING
+c103.mp3   ཆུ་བྱ་གིས་   NEEDS RECORDING
+c104.mp3   ཉ་རེ་རེ་   NEEDS RECORDING
+c105.mp3   བཞིན་དུ་   NEEDS RECORDING
+c106.mp3   འབག་སྟེ་   NEEDS RECORDING
+c107.mp3   ཐག་རིང་   NEEDS RECORDING
+c108.mp3   ས་ཅིག་ཁར་   NEEDS RECORDING
+c109.mp3   ལྷོདཔ་ད་   NEEDS RECORDING
+c110.mp3   རྡོ་ལེབ་   NEEDS RECORDING
+c111.mp3   སྦོམ་ཅིག་གུ་   NEEDS RECORDING
+c112.mp3   བཞག་ཅི་ར་   NEEDS RECORDING
+c113.mp3   བཟའ་ད་ནུག   NEEDS RECORDING
+c114.mp3   འབདཝ་ད་   NEEDS RECORDING
+c115.mp3   སྦུལ་ཉ་   NEEDS RECORDING
+c116.mp3   ཅིག་ཚུད་དེ་   NEEDS RECORDING
+c117.mp3   འདི་ཡང་   NEEDS RECORDING
+c118.mp3   ཧེ་མ་   NEEDS RECORDING
+c119.mp3   བཟུམ་འབད་ར་   NEEDS RECORDING
+c120.mp3   བཟའ་ནི་   (already recorded - reused)
+c121.mp3   གུ་བཞག་ནུག   NEEDS RECORDING
+c122.mp3   སྦུལ་ཉ་དེ་གིས   NEEDS RECORDING
+c123.mp3   ཁོ་གིས་   NEEDS RECORDING
+c124.mp3   ཨིནམ་ཤེས་ཏེ་   NEEDS RECORDING
+c125.mp3   ཨ་རྒས་ཀྱི་   NEEDS RECORDING
+c126.mp3   ལྟག་ཀོ་གུ་   NEEDS RECORDING
+c127.mp3   མཆོངས་ཏེ་   NEEDS RECORDING
+c128.mp3   ཨོལ་ལྐོག་   NEEDS RECORDING
+c129.mp3   བསྡམས་སྦེ་   NEEDS RECORDING
+c130.mp3   བསད་ད་ནུག   NEEDS RECORDING
