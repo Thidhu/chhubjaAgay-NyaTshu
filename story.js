@@ -1,4 +1,4 @@
-/* STORY DATA. Each word: {t:text, k:audio key} -> audio/<k>.mp3. Same word = same key = record once.
+/* STORY DATA. Each word: {t:text, k:audio key} -> audio/<k>.mp3. Same key = same audio file = record once.
    layout 'L' = image on the left, text on the right; 'R' = image on the right, text on the left. */
 window.STORY = {
  "id": "dz-chubya-nya",
@@ -51,10 +51,6 @@ window.STORY = {
     {
      "t": "སྡོད་སྡོདཔ་མས།",
      "k": "c009"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -68,10 +64,6 @@ window.STORY = {
     {
      "t": "འབདཝ་ད།",
      "k": "c011"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -98,10 +90,6 @@ window.STORY = {
     {
      "t": "ཐོན་ཏེ།",
      "k": "c016"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -137,10 +125,6 @@ window.STORY = {
      "k": "c021"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -170,10 +154,6 @@ window.STORY = {
      "k": "c026"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -183,10 +163,6 @@ window.STORY = {
     {
      "t": "སླབ་ནུག།",
      "k": "c028"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -220,10 +196,6 @@ window.STORY = {
      "k": "c033"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -249,10 +221,6 @@ window.STORY = {
      "k": "c037"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -269,10 +237,6 @@ window.STORY = {
     {
      "t": "བཅུད་མེད།",
      "k": "c040"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -304,10 +268,6 @@ window.STORY = {
      "k": "c045"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -317,10 +277,6 @@ window.STORY = {
     {
      "t": "སླབ་ནུག",
      "k": "c028"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -362,10 +318,6 @@ window.STORY = {
      "k": "c052"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -389,10 +341,6 @@ window.STORY = {
     {
      "t": "སླབ་ད།",
      "k": "c056"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -460,10 +408,6 @@ window.STORY = {
      "k": "c066"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -473,10 +417,6 @@ window.STORY = {
     {
      "t": "གསོལཝ་བཏབ་ནུག།",
      "k": "c067"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -490,10 +430,6 @@ window.STORY = {
     {
      "t": "ཨ་རྒས་ཀྱིས།",
      "k": "c068"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -525,10 +461,6 @@ window.STORY = {
      "k": "c073"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -552,10 +484,6 @@ window.STORY = {
     {
      "t": "འཁྱིད་གེ།",
      "k": "c077"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -586,10 +514,6 @@ window.STORY = {
      "k": "c080"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -602,10 +526,6 @@ window.STORY = {
     {
      "t": "སླབ་ནུག།",
      "k": "c028"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -638,10 +558,6 @@ window.STORY = {
      "k": "c084"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -658,10 +574,6 @@ window.STORY = {
     {
      "t": "འགྱོ་མི་ཚུགས།",
      "k": "c087"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -682,10 +594,6 @@ window.STORY = {
      "k": "c090"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -700,10 +608,6 @@ window.STORY = {
      "k": "c066"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -713,10 +617,6 @@ window.STORY = {
     {
      "t": "སླབ་ནུག།",
      "k": "c028"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -764,10 +664,6 @@ window.STORY = {
      "k": "c094"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -796,10 +692,6 @@ window.STORY = {
      "k": "c098"
     },
     {
-     "t": "",
-     "punct": true
-    },
-    {
      "t": " "
     },
     {
@@ -809,10 +701,6 @@ window.STORY = {
     {
      "t": "དྲིཝ་ད།",
      "k": "c099"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -834,10 +722,6 @@ window.STORY = {
     {
      "t": "ཁ་བཟེད་ནུག།",
      "k": "c101"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -871,10 +755,6 @@ window.STORY = {
      "t": " "
     },
     {
-     "t": "",
-     "k": "c107"
-    },
-    {
      "t": "ཐག་རིང་ས་ཅིག་ཁར་",
      "k": "c108"
     },
@@ -903,10 +783,6 @@ window.STORY = {
     {
      "t": "བཟའ་ད་ནུག།",
      "k": "c113"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -965,16 +841,12 @@ window.STORY = {
      "t": " "
     },
     {
-      "t": "རྡོ་ལེབ་གུ་",
-      "k": "c120.1"
+     "t": "རྡོ་ལེབ་གུ་",
+     "k": "c120.1"
     },
     {
-     "t": "གུ་བཞག་ནུག།",
+     "t": "བཞག་ནུག།",
      "k": "c121"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   },
@@ -984,10 +856,6 @@ window.STORY = {
     {
      "t": "སྦུལ་ཉ་དེ་གིས།",
      "k": "c122"
-    },
-    {
-     "t": "",
-     "punct": true
     },
     {
      "t": " "
@@ -1046,10 +914,6 @@ window.STORY = {
     {
      "t": "བསད་ད་ནུག།",
      "k": "c130"
-    },
-    {
-     "t": "",
-     "punct": true
     }
    ]
   }
