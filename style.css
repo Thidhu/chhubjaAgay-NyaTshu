@@ -18,14 +18,14 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 .btn-primary:hover,.btn-light:hover{filter:brightness(1.1)}
 
 /* page = two halves, fills everything between bar and nav */
-.page{flex:1;min-height:0;display:grid;grid-template-columns:1fr 1fr;animation:pageIn .5s ease}
+.page{flex:1;min-height:0;display:grid;grid-template-columns:5fr 7fr;animation:pageIn .5s ease}
 @keyframes pageIn{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:none}}
 .page.back{animation-name:pageInBack}@keyframes pageInBack{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}
 .pic{position:relative;overflow:hidden;background:#cfe8f3}
 .pic img,.pic svg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.txt{display:flex;align-items:center;justify-content:center;padding:2.2rem clamp(1.5rem,4vw,4.5rem);background:var(--card);overflow-y:auto}
-.page.R .pic{order:2}.page.R .txt{order:1}
-.line{font-size:clamp(1.8rem,3.1vw,3.2rem);line-height:2.15;word-spacing:.25em;max-width:100%}
+.txt{display:flex;align-items:center;justify-content:center;padding:1rem clamp(1rem,2.5vw,3rem);background:var(--card);overflow:hidden;min-width:0}
+.page.R{grid-template-columns:7fr 5fr}.page.R .pic{order:2}.page.R .txt{order:1}
+.line{font-size:clamp(1.8rem,3.1vw,3.2rem);line-height:1.9;word-spacing:.2em;max-width:100%;padding:.35em 0}
 .tok{display:inline-block;padding:.05em .2em;margin:0 .02em;border-radius:10px;cursor:pointer;border-bottom:3px solid transparent;transition:background .15s,transform .1s;position:relative}
 .tok:hover{background:var(--accent-soft);border-bottom-color:var(--accent)}
 .tok.playing{background:var(--accent);color:#fff;transform:scale(1.07)}
@@ -70,7 +70,7 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 
 /* phones / portrait: picture on top, text below */
 @media (max-width:760px),(orientation:portrait){
-  .page{grid-template-columns:1fr;grid-template-rows:42% 58%}
+  .page{grid-template-columns:1fr;grid-template-columns:1fr;grid-template-rows:34% 66%}.page.R{grid-template-columns:1fr}
   .page.R .pic,.page.R .txt{order:0}
   .line{font-size:clamp(1.5rem,6vw,2.1rem);line-height:2.05}
   .bar-ctl label,.count{display:none}.btn{padding:.4rem .6rem}.bar-title{font-size:1.15rem}
